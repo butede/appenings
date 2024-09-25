@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167113265650",
+    "project_id": "appenings-bbfb5",
+    "storage_bucket": "appenings-bbfb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167113265650:android:fd973b7637a2d6e7701b6b",
+        "android_client_info": {
+          "package_name": "com.butede.appenings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pBwNSQmEqn_Ou1bTXtBNBEF-aHHaXm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
