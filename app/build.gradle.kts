@@ -75,8 +75,11 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
-}
 
+    task("printVersionInformation") {
+        println(defaultConfig.versionName)
+    }
+}
 dependencies {
 
     implementation(libs.androidx.core.ktx)
